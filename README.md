@@ -1,5 +1,7 @@
 # Robust-Asynchrnous-Stochastic-Gradient-Push
-A Decentralized SGD Algorithm: https://arxiv.org/abs/1811.03982
+Robust Asynchronous Stochastic Gradient-Push: Asymptotically Optimal and Network-Independent Performance for Strongly Convex Functions https://arxiv.org/abs/1811.03982
+
+Here are the codes for the RASGP, the main algorithm proposed in the paper above. These codes are used to perform the main simulations presented in the paper and to verify the theoritical results.
 
 Centralized_v4.py simulates the centralized SGD
 
